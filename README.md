@@ -8,7 +8,7 @@ pycharm as a code editing, Tkinter as a main module
 
 LINKS
 
-Repository:
+Repository:https://github.com/Niteshy85013/Tkinter-calculator
 
 Youtube link:
 
