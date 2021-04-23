@@ -4,9 +4,9 @@ the help if this module we can create the many different GUI applications,
 
 TOOLS USED
 
-pycharm as a code editing, 
+1.pycharm as a code editing, 
 
-Tkinter as a main module
+2.Tkinter as a main module
 
 LINKS
 
