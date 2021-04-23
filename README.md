@@ -9,10 +9,6 @@ TOOLS USED
 2. Tkinter as a main module
 
 
-![2021-04-23](https://user-images.githubusercontent.com/79129812/115881317-58034f80-a46b-11eb-97ec-7115c8237e91.png)
-
-
-
 LINKS
 
 Repository: https://github.com/Niteshy85013/Tkinter-calculator
@@ -25,3 +21,6 @@ User id: 210106
 
 
 Email id: niteshyadav85013@gmail.com  
+
+
+![2021-04-23](https://user-images.githubusercontent.com/79129812/115881317-58034f80-a46b-11eb-97ec-7115c8237e91.png)
