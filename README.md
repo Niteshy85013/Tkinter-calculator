@@ -4,7 +4,9 @@ the help if this module we can create the many different GUI applications,
 
 TOOLS USED
 
-pycharm as a code editing, Tkinter as a main module
+pycharm as a code editing, 
+
+Tkinter as a main module
 
 LINKS
 
@@ -15,4 +17,6 @@ Youtube link:
 User name: Nitesh yadav
 
 User id: 210106
+
+
 Email id:niteshyadav85013@gmail.com  
