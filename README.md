@@ -4,13 +4,13 @@ the help if this module we can create the many different GUI applications,
 
 TOOLS USED
 
-1.pycharm as a code editing, 
+1. Pycharm as a code editing, 
 
-2.Tkinter as a main module
+2. Tkinter as a main module
 
 LINKS
 
-Repository:https://github.com/Niteshy85013/Tkinter-calculator
+Repository: https://github.com/Niteshy85013/Tkinter-calculator
 
 Youtube link:
 
@@ -19,4 +19,4 @@ User name: Nitesh yadav
 User id: 210106
 
 
-Email id:niteshyadav85013@gmail.com  
+Email id: niteshyadav85013@gmail.com  
