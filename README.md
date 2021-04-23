@@ -2,6 +2,13 @@ py_calculator The calculator named py_calculator was developed through the help 
 this application has a many different modules but to develop the calculator the tkinter module is used throught 
 the help if this module we can create the many different GUI applications,
 
+
+#. Simple image of calculator
+
+![2021-04-23 (2)](https://user-images.githubusercontent.com/79129812/115882475-803f7e00-a46c-11eb-81a7-b0ec3c315648.png)
+
+
+
 TOOLS USED
 
 1. Pycharm as a code editing
